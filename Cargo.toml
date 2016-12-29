@@ -1,0 +1,12 @@
+[package]
+authors = ["Jorge Aparicio <japaricious@gmail.com>", "Jared Boone <jared@sharebrained.com>"]
+description = "Memory map for STM32F41X microcontrollers"
+documentation = "https://docs.rs/stm32f41x-memory-map"
+keywords = ["arm", "cortex-m", "stm32"]
+license = "MIT OR Apache-2.0"
+name = "stm32f41x-memory-map"
+repository = "https://github.com/jboone/stm32f41x-memory-map"
+version = "0.1.0"
+
+[dependencies]
+volatile-register = "0.1.2"
